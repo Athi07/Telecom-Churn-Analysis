@@ -77,3 +77,6 @@ plt.title('Distribution of Tenure')
 plt.show()
 ```
 # Output
+![](Output1.png)
+![](Output2.png)
+![](Output3.png)
